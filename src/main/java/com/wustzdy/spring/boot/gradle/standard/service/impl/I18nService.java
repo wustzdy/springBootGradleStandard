@@ -1,4 +1,4 @@
-package com.wustzdy.spring.boot.gradle.test.service.impl;
+package com.wustzdy.spring.boot.gradle.standard.service.impl;
 
 
 public interface I18nService {

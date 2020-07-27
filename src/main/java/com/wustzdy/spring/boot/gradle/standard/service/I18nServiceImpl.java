@@ -1,6 +1,6 @@
-package com.wustzdy.spring.boot.gradle.test.service;
+package com.wustzdy.spring.boot.gradle.standard.service;
 
-import com.wustzdy.spring.boot.gradle.test.service.impl.I18nService;
+import com.wustzdy.spring.boot.gradle.standard.service.impl.I18nService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.context.i18n.LocaleContextHolder;

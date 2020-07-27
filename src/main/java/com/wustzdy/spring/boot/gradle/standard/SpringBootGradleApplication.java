@@ -1,7 +1,7 @@
-package com.wustzdy.spring.boot.gradle.test;
+package com.wustzdy.spring.boot.gradle.standard;
 
 
-import com.wustzdy.spring.boot.gradle.test.service.I18nServiceImpl;
+import com.wustzdy.spring.boot.gradle.standard.service.I18nServiceImpl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
